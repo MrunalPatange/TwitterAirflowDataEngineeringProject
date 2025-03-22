@@ -1,4 +1,4 @@
-# twitter-airflow-data-engineering-project
+# TwitterAirflowDataEngineeringProject
 
 
 ## Overview
